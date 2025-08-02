@@ -1,0 +1,6 @@
+<%@page language="java" %>
+<html>
+    <body>
+        <h2>The result is : ${result}</h2>
+    </body>
+</html>
